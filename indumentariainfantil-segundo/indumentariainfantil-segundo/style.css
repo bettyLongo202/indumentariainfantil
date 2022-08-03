@@ -1,0 +1,46 @@
+
+@font-face{
+       font-family: GreatVibesRegular;
+       src: url(./fuente/GreatVibesRegular.ttf);
+ }   
+
+.colorbarra{background: #E8DAEF;
+ }
+a{
+       font-family: GreatVibesRegular;
+       font-size: 36px;
+
+ }
+
+.colorletras{ color:purple;
+      text-decoration: none;
+      text-decoration-color:none;}
+
+.nav-link {background: none;}
+
+.border{ borde: solid 3px; }
+/*footer*/
+
+.piedepagina{color:purple;}
+
+ /*candybar*/
+.zoom{
+   box-shadow: 0px 0px 10px blue;
+   transition:all 0.3s ease
+}
+
+/*quien soy*/
+
+ 
+ .foto{
+        display: flex;  
+        justify-content: center;
+        }
+
+     
+#punico{
+       font-family: GreatVibesRegular;
+       font-size: 30px;
+       color: rgb(143, 12, 204);
+       margin: 5%;
+}
